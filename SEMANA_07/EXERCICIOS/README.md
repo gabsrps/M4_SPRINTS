@@ -1,3 +1,6 @@
+Link para o drive: https://drive.google.com/drive/folders/1goUkNFhdGlcEiiQihz2_B1027zq04RJr
+
+
 Unificando os autoestudos de Construção de endpoints embarcados e a Revisão com Node.js:
 
 - Crie um Game que permita 2 jogadores interagirem com o ESP32. 
